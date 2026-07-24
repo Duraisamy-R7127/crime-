@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://crime-97y0.onrender.com";
 
 let jwtToken = localStorage.getItem("crimevision_token");
 
