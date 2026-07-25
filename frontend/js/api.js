@@ -1,4 +1,4 @@
-const BASE_URL = "https://crime-m3w7.onrender.com";
+const BASE_URL = "https://crime-backend-50044325568.development.catalystappsail.in";
 
 let jwtToken = localStorage.getItem("crimevision_token");
 
